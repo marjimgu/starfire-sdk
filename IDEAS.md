@@ -17,3 +17,8 @@ Generate a random deck. Probably should be a viable one, but maybe have an optio
 
 ### Card win rates
 Graph card win rates over time
+
+### Clan control features
+1. Total donatinatios per week
+2. Total clan chest crowns
+3. Downloable to CSV file
